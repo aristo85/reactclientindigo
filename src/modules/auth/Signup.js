@@ -48,7 +48,7 @@ const Signup = () => {
   return (
     <div>
       <h2 className="form-auth-h2">
-        Create an account with SuperWorld to start buy and selling NFTs.
+        Create an account to start.
       </h2>
       <form onSubmit={handleSubmit(handleFormSubmit)} className="loginForm">
         <div>
